@@ -1,1 +1,1 @@
-Hello
+npx create-react-app .
